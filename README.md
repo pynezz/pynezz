@@ -18,11 +18,3 @@
 
 - ### [Word finder](https://word-finder-project-23.herokuapp.com/) - increase your vocabulary.
 - ### [Crypto wiki](https://crypto-wiki-p5.herokuapp.com/) - blockchain token wiki
-
-
-
-
-
-      _|_ |_  o ._  |  o ._   _        
-       |_ | | | | | |< | | | (_| o o o 
-                              _|       
