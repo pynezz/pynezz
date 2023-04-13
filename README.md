@@ -13,8 +13,9 @@
       ( >)     |_|    |_|  |_|\_| |___| /___|  /___| 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=12&duration=1500&pause=100&color=67BAEB&center=true&vCenter=true&repeat=false&width=435&lines=Knock+knock...;Race+condition;+;+Who's+there%3F;+)](https://git.io/typing-svg)
 
-# [Blog](https://pynezz.github.io/paper/)
+### [Blog](https://pynezz.github.io/paper/)
 
 ## Projects: 
 
