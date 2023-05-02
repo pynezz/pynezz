@@ -26,4 +26,8 @@
 - ### [Unsafe C functions checker](https://github.com/pynezz/python-unsafe-c-checker) - Find unsafe C functions in your source code
 - ### [strompris.py](https://github.com/pynezz/el_pris) - Find the current electricity cost in South-East Norway
 
+---
+
+# Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pynezz&layout=compact)](https://github.com/pynezz/pynezz)
