@@ -30,4 +30,4 @@
 
 # Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pynezz&layout=compact&theme=radical)](https://github.com/pynezz/pynezz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pynezz&layout=compact&theme=onedark&hide=ShaderLab&langs_count=6)](https://github.com/pynezz/pynezz)
