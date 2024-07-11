@@ -20,7 +20,7 @@
 ### [Blog](https://pynezz.github.io/paper/)
 
 ## Projects: 
-
+- ### [pynezz.dev](https://pynezz.dev) | [repo](https://github.com/pynezz/pynezz_com) - a markdown blogging site built from scratch in Go
 - ### [Word finder](https://word-finder-project-23.herokuapp.com/) - increase your vocabulary.
 - ### [Unsafe C functions checker](https://github.com/pynezz/python-unsafe-c-checker) - Find unsafe C functions in your source code
 - ### [dnest](https://github.com/pynezz/dnest) - work in progress | Homemade EDR exploration written in Go
