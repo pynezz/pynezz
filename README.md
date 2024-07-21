@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&duration=1500&pause=100&color=67BAEB&center=true&vCenter=true&repeat=false&width=435&lines=Knock+knock...;Race+condition;+;+Who's+there%3F;+)](https://git.io/typing-svg)
 
-### [Old blog](https://pynezz.github.io/paper/) [New blog (beta)](https://beta.pyezz.dev/)
+### [Old blog](https://pynezz.github.io/paper/) | [New blog (beta)](https://beta.pyezz.dev/)
 
 ## Projects: 
 - ### [pynezz.dev](https://pynezz.dev) | [repo](https://github.com/pynezz/pynezz_com) - a markdown blogging site built from scratch in Go
