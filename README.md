@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=100&color=67697E&center=true&vCenter=true&repeat=false&width=435&lines=Programming+%7C+Infosec)](https://git.io/typing-svg)
+
                         __ _
                     _( `    '`.          .:(`  `)`.
                 .=(`(      .   )     .--`.  (    ) )
