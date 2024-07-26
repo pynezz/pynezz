@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=100&color=67697E&center=true&vCenter=true&repeat=false&width=435&lines=Programming+%7C+Infosec)](https://git.io/typing-svg)
-
                         __ _
                     _( `    '`.          .:(`  `)`.
                 .=(`(      .   )     .--`.  (    ) )
@@ -46,3 +45,5 @@
 # Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pynezz&layout=compact&theme=dark&hide=ShaderLab&langs_count=10)](https://github.com/pynezz/pynezz)
+
+https://github-readme-stats.vercel.app/api/wakatime?username=pynezz&api_domain=stats.segmentationviolation.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact
