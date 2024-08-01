@@ -38,5 +38,7 @@
 
 [![Pynezz Wakapi stats](https://github-readme-stats.vercel.app/api/wakatime?username=pynezz&api_domain=stats.segmentationviolation.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://stats.segmentationviolation.com/)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66881c12501413692b7ad2b3?variant=dark&roadmaps=cyber-security%2Cbackend%2Clinux%2Cfull-stack)](https://roadmap.sh)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pynezz&layout=compact&theme=dark&hide=ShaderLab&langs_count=10)](https://github.com/pynezz/pynezz)
 
