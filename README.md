@@ -12,6 +12,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/e21d0c4b-a99f-4ec9-9964-b7b16e9bee7f.svg)](https://wakatime.com/@e21d0c4b-a99f-4ec9-9964-b7b16e9bee7f)
 
+[![wakapi](https://stats.segmentationviolation.com/api/badge/pynezz/pynezz/interval:14_days?label=Wakapi+|+Last+14+Days)](https://stats.segmentationviolation.com/api/badge/pynezz/pynezz/interval:14_days?label=Wakapi+|+Last+14+Days)
+
 ## Some of the things I do/have done
 
 ### [Old blog](https://pynezz.github.io/paper/) | [New blog (beta)](https://beta.pyezz.dev/)
